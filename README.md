@@ -10,7 +10,7 @@
 <br><br>
 
 - :school: I am a `Student` at [ISAUI, Instituto Superior Arturo U. Illia](https://isaui.edu.ar/historia/).
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I discovered that I liked `Programming`, when I realized that I could solve my silly problems in my life.
 - :student: I’m currently learning `C#` and `SQL Server`.
 - 📚 I have worked for as a freelancer, using Wordpress and Woocomerce plugins.
 <br>
