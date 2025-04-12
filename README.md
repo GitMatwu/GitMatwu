@@ -11,9 +11,8 @@
 
 - :school: I am a `Student` at [ISAUI, Instituto Superior Arturo U. Illia](https://isaui.edu.ar/historia/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- 📚 I have work experience working for an e-commerce company, using Wordpress and Woocomerce.
+- :student: I’m currently learning `C#` and `SQL Server`.
+- 📚 I have worked for as a freelancer, using Wordpress and Woocomerce plugins.
 <br>
 
 
